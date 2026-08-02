@@ -7,7 +7,7 @@
 **Entry Point**: `not detected`  
 **Codebase**: 1 source files, 195 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 2 class(es): SmartFlyerGenerator, FlyerAnnouncer, 7 function(s): announce_flyer, calculate_golden_ratio_layout, __init__, generate_math_pattern, add_mathematical_decoration
+**Key Components**: 2 class(es): FlyerAnnouncer, SmartFlyerGenerator, 7 function(s): generate_math_pattern, add_mathematical_decoration, calculate_golden_ratio_layout, announce_flyer, create_smart_flyer
 
 This project contains 2 class(es) and 7 function(s).
 
@@ -24,9 +24,9 @@ This project contains 2 class(es) and 7 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Open-Source Catalyst
+## 🧠 My Approach: The Full-Stack Pragmatist
 
-I believe in building on the shoulders of giants. I contribute to and leverage open source to accelerate development and reduce vendor lock‑in.
+I span the entire stack – from database design to UI components. I make pragmatic choices that balance speed, cost, and quality.
 
 ### 📌 My Focus & Track Record
 - **Role**: AI Systems Integrator
@@ -38,32 +38,38 @@ I believe in building on the shoulders of giants. I contribute to and leverage o
 ### 🎯 Why This Project Exists
 **AdvancedFlyerGenerator** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Open-Source Advocates**: I foster collaborative, transparent development that attracts talent and community engagement.
+**For Growing Teams**: I am a versatile engineer who can fill gaps across the development lifecycle.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
 
-1. Process Orchestration: Automate cross‑departmental workflows, reducing human touchpoints.
-2. Data Integration: Bridge legacy and modern systems, enabling seamless data flow.
+1. Data Integration: Bridge legacy and modern systems, enabling seamless data flow.
+2. Process Orchestration: Automate cross‑departmental workflows, reducing human touchpoints.
 
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Sustainable Architecture: Reduces energy consumption, aligning technology with environmental goals.
-- Improved Developer Productivity: Streamlines workflows, reduces boilerplate, and improves developer happiness.
-- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
-- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
+- Enhanced Data Privacy: Protects sensitive user data with rigorous encryption and access controls.
+- Resilience Against Failures: Builds redundancy and fault‑tolerance, so systems never stop.
+- Actionable Business Insights: Transforms raw metrics into strategic intelligence.
+- Market Agility: Enables rapid iteration and deployment of new features.
+- Increased Conversion Rates: Optimises user journeys and funnels to drive revenue.
+- Low‑Latency Performance: Delivers near‑instantaneous responses for user‑facing applications.
+- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
+- Continuous Deployment: Enables safe, automated, and frequent releases to production.
+- Enhanced Security Posture: Builds robust threat defence and data privacy into the application architecture.
 - Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
-- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
 
 ### 🔗 Integrations
 - Host Operating System (files, environment, processes)
 
 ## 📈 Scale to SaaS & Beyond
 
-- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
+- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
+- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
+- Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
+- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
 - API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
@@ -124,6 +130,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
